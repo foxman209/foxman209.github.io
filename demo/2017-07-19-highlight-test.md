@@ -4,7 +4,7 @@ categories:
  - Test
 tags:
 ---
-
+colo
 This is a highlight test.
 
 # Normal block
