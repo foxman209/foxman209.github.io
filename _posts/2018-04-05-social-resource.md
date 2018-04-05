@@ -1,8 +1,7 @@
 ---
 title: 国外社交类网站
 date: 2018-04-05 21:33:08
-categories:
-- 资源
+category: 资源
 tags:
 - 社交
 ---
