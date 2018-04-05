@@ -92,7 +92,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -709,3 +709,5 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+github: [metadata]
